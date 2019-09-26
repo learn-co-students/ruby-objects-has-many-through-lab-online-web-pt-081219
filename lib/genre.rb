@@ -1,0 +1,1 @@
+pop = Genre.new("pop")
