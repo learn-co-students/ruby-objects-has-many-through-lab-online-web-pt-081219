@@ -21,8 +21,4 @@ class Appointment
   def self.all
     @@all
   end
-  
-  # def patient
-  #   self.all.select
-  # end
 end
