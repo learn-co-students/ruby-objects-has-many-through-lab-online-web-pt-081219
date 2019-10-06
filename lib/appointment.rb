@@ -22,7 +22,7 @@ class Appointment
     @@all
   end
   
-  def patient
-    self.all.select
-  end
+  # def patient
+  #   self.all.select
+  # end
 end
