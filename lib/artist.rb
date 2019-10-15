@@ -11,8 +11,7 @@ class Artist
   def self.all
     @@all
   end
-  #Kanye.new_song("yeezy", "rap")
-  #rap song Yeezy by Kanye
+  
   def new_song(name, genre)
     Song.new(name, self, genre)
   end
